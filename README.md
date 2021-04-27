@@ -1,6 +1,12 @@
 # hyojin38  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyojin38&count_bg=%23D2B3FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+![hyojin38's github stats](https://github-readme-stats.vercel.app/api?username=hyojin38&show_icons=true)
+
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jinny308)](https://solved.ac/jinny308)
+
+
 ### Hi there 👋
 
 <!--
